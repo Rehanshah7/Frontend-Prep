@@ -13,6 +13,7 @@ Polyfills (map, filter, reduce, bind)
 
 Not definitions — real use cases + coding
 
+----------------------------------------------------------
 
 ⚛️ 2. React (Deep Understanding)
 Not just hooks — why they exist
@@ -31,6 +32,7 @@ Controlled vs uncontrolled components
 “Why React is fast?”
 “Why keys are important?”
 
+----------------------------------------------------------
 
 🌐 3. Browser & Web Fundamentals (HIGHLY UNDERRATED)
 This is where most candidates fail.
@@ -44,7 +46,7 @@ Critical Rendering Path
 
 👉 If you explain this well → you stand out instantly
 
-
+----------------------------------------------------------
 
 🏗️ 4. Frontend System Design (For good companies)
 You’ll be asked things like:
@@ -61,6 +63,7 @@ API handling
 Performance
 Scalability
 
+----------------------------------------------------------
 
 💻 5. Machine Coding (MOST IMPORTANT ROUND)
 This is where people fail even with knowledge.
@@ -83,6 +86,7 @@ Reusability
 Edge cases
 UX
 
+----------------------------------------------------------
 
 🧩 6. Problem Solving (JS + DSA Lite)
 Not hardcore DSA like backend roles.
